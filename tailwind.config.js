@@ -77,9 +77,9 @@ export default {
             'cursor': 'not-allowed',
           },
         },
-      }
+      };
 
-      addUtilities(utilFormSwitch)
+      addUtilities(utilFormSwitch);
     }),
   ],
 }
