@@ -14,19 +14,19 @@
     ]
   },
   "dependencies": {
-    "@headlessui/vue": "^1.7.21",
+    "@headlessui/vue": "^1.7.22",
     "vue": "^3.2.37"
   },
   "devDependencies": {
     "@tailwindcss/aspect-ratio": "^0.4.2",
     "@tailwindcss/forms": "^0.5.7",
     "@tailwindcss/typography": "^0.5.13",
-    "@vitejs/plugin-vue": "^5.0.4",
+    "@vitejs/plugin-vue": "^5.0.5",
     "autoprefixer": "^10.4.19",
     "postcss": "^8.4.38",
-    "prettier": "^3.2.5",
-    "prettier-plugin-tailwindcss": "^0.5.14",
+    "prettier": "^3.3.0",
+    "prettier-plugin-tailwindcss": "^0.6.1",
     "tailwindcss": "^3.4.3",
-    "vite": "^5.2.10"
+    "vite": "^5.2.12"
   }
 }
